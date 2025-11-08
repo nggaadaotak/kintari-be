@@ -816,5 +816,4 @@ const chatResponse = await fetch("http://localhost:8000/api/chat/query", {
 **🎉 Ready to use! Upload any document and start asking AI questions!**
 
 **Last Updated**: January 2025 | **Version**: 2.0.0 (Universal KB)
-#   k i n t a r i - b e  
- 
+#
