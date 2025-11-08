@@ -46,7 +46,7 @@ CORS           : Enabled untuk frontend (localhost:3000)
 
 ```bash
 # Clone repository
-git clone https://github.com/Sastraaaa/kintari-be.git
+git clone https://github.com/nggaadaotak/kintari-be.git
 cd kintari-be
 
 # Buat virtual environment
@@ -817,3 +817,4 @@ const chatResponse = await fetch("http://localhost:8000/api/chat/query", {
 
 **Last Updated**: January 2025 | **Version**: 2.0.0 (Universal KB)
 #
+
