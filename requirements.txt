@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+pdfplumber
+pymupdf
+pandas
+python-dotenv
+requests
+httpx
+pytest
+pytest-asyncio
+google-genai
+aiofiles
+python-multipart
+dotenv
